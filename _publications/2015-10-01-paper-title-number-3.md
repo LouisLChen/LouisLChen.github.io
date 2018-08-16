@@ -12,4 +12,4 @@ In this paper, we study the class of linear and discrete optimization problems i
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3159473)
 
-Recommended citation: Louis Chen, Will Ma, Karthik Natarajan, David Simchi-Levi, Zhenzhen Yan. (2018). "Distributionally Robust Linear and Discrete Optimization with Marginals." <i>submitted</i>.
+Louis Chen, Will Ma, Karthik Natarajan, David Simchi-Levi, Zhenzhen Yan. (2018). "Distributionally Robust Linear and Discrete Optimization with Marginals." <i>submitted</i>.
