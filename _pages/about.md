@@ -10,6 +10,8 @@ redirect_from:
 
 Hi, welcome to my website! I'm a PhD student in Operations Research, and my advisor is Professor David Simchi-Levi. My research work has been in the area of operations/revenue management. More specifically, I have been studying the problem of optimal decision-making under uncertainty in operations areas like inventory, scheduling, and networks. How to make use of data and/or distributional information to design informative (and tractable) optimization models has been my focus.
 
+(This site is still under construction, to be finished soon!!!)
+
 
 Research Interests
 ------
