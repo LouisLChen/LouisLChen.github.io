@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! 
+Hi, welcome to my website! I'm a PhD student in Operations Research, and my advisor is Professor David Simchi-Levi. My research focus has been in the area of operations/revenue management. More specifically, I study the problem of optimal decision-making under uncertainty in areas like inventory, scheduling, and networks. 
 
-About me
+
+Research Interests
 ------
+(Data-Driven) Distributionally Robust Optimization, Stochastic Programming, Convex Optimization, (Discrete) Convex Analysis
