@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate, MIT Operations Research Center
+Hi, welcome to my website! 
 
 Site-wide configuration
 ------
