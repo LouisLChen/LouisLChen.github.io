@@ -16,3 +16,9 @@ Hi, welcome to my website! I'm a PhD student in Operations Research, and my advi
 Research Interests
 ------
 (Data-Driven) Distributionally Robust Optimization, Stochastic Programming, Convex Optimization, (Discrete) Convex Analysis
+
+
+Ongoing Project(s)
+------
+Distributionally Robust Max-Flows (Will Ma, James Orlin, David Simchi-Levi)
+Distributionally Robust Omni-channel Inventory Management (a collaboration with Alibaba's Hema, Hanzhang Qin, Zirun Zhang)
