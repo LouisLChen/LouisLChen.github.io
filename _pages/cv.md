@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Operations Research, MIT, 2019 (expected)
+* B.A. in Computational and Applied Mathematics, Rice University, 2012
+* B.S. in Mechanical Engineering, Rice University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Intern
+  * Machine Intelligence Technology group of Alibaba's DAMO
+  * Duties included: Analysis and Design of cloud scheduling, Algorithm design for HEMA's omni-channel inventory replenishment system 
 
 * Fall 2015: Research Assistant
   * Github University
