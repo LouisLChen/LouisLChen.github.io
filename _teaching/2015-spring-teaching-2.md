@@ -2,7 +2,6 @@
 title: "Statistical Thinking and Data Analysis"
 collection: teaching assistant
 type: "Undergraduate course (15.075)"
-permalink: /teaching/2016-spring-teaching-1
 venue: "MIT Sloan School of Management"
 date: 2014-09-10
 location: "Cambridge, MA"
