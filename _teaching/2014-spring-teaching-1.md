@@ -8,4 +8,5 @@ date: 2016-02-01
 location: "Cambridge, MA"
 ---
 Taught by: David Simchi-Levi, Don Rosenfield
+
 My TA responsibilities included recitation sessions, homework/report grading
