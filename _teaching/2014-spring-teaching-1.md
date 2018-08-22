@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Manufacturing System and Supply Chain Design"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "MBA course, TA"
+permalink: /teaching/2016-spring-teaching-1
+venue: "MIT, Sloan School of Management"
+date: 2016-02 - 2016-05
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
