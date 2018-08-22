@@ -7,4 +7,4 @@ venue: "MIT Sloan School of Management"
 date: 2014-06-10
 location: "Cambridge, MA"
 ---
-Taught by Professor Tauhid Zaman. This course was part of the Leaders for Global Operations (LGO) curriculum, in which my TA responsibilities included running recitation sessions and doing homework/report grading.
+Taught by Professor Tauhid Zaman. This course was part of the MIT Leaders for Global Operations (LGO) curriculum, in which my TA responsibilities included running recitation sessions and doing homework/report grading.
