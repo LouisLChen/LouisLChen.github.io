@@ -7,7 +7,4 @@ venue: "MIT Sloan School of Management"
 date: 2016-02-01
 location: "Cambridge, MA"
 ---
-Taught by David Simchi-Levi, Don Rosenfield
-
-My TA responsibilities included recitation sessions, homework/report grading
----
+Taught by Professors David Simchi-Levi, Don Rosenfield. My TA responsibilities included running recitation sessions and doing homework/report grading
