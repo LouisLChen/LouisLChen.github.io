@@ -19,21 +19,34 @@ Work experience
 ======
 * Summer 2018: Research Intern
   * Machine Intelligence Technology group of Alibaba's DAMO
-  * Duties included: Analysis and Design of cloud scheduling, Algorithm design for HEMA's omni-channel inventory replenishment system 
+  * Duties included: 1.) Distributionally Robust Analysis and Design of cloud scheduling, 2.) Distributionally Robust Algorithm design for HEMA's omni-channel inventory replenishment system 
+  
+* Summer 2017: Visiting Research Scholar
+  * Singapore University of Technology and Design
+  * Duties included: Research on Distributionally Robust Optimization with Marginals. 
+  * Supervisor: Professor Karthik Natarajan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall, Spring 2014-18: Research Assistant
+  * MIT
+  * Duties included: (Thesis Research) Robust Optimization in Operations/Revenue Management
+  * Supervisor: Professor David Simchi-Levi
+  
+* Fall 2013 - Spring 2014: Research Assistant
+  * MIT
+  * Duties included: FDA - sponsored study of Food and Drug Supply Chain Vulnerabilities 
+  * Supervisor: Professor Retsef Levi
+  
+* Fall 2012 - Spring 2013: Research Assistant
+  * MIT
+  * Duties included: Simulation-Based Optimization
+  * Supervisor: Professor Carolina Osorio
+  
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C/C++, Java, Python, MATLAB, Julia, R, LATEX
 
 Publications
 ======
@@ -53,6 +66,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
