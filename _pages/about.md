@@ -13,7 +13,7 @@ Hi, welcome to my website! I'm a PhD student in Operations Research, and my advi
 
 Research Interests
 ------
-(Data-Driven) Distributionally Robust Optimization, Stochastic Programming, Convex Optimization, (Discrete) Convex Analysis
+(Data-Driven) Distributionally Robust Optimization, Stochastic Programming, Convex Optimization, (Discrete) Convex Analysis, Optimal Transport
 
 
 Ongoing Project(s)
