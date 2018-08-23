@@ -20,5 +20,3 @@ Ongoing Project(s)
 ------
 * Distributionally Robust Max-Flows (Will Ma, James Orlin, David Simchi-Levi)
 * Distributionally Robust Omni-channel Inventory Management (a collaboration with Alibaba's Hema, Hanzhang Qin, Zirun Zhang)
-
-<a href="http://www.visitormap.org/" target="_top"><img src="http://www.visitormap.org/map/m:goshmibeulouiyur/s:1/c:ffffff/p:dot/y:0.png" alt="Free Visitor Maps at VisitorMap.org" border="0"></a><br><a href="http://www.visitormap.org/">Get a FREE visitor map for your site!</a>
