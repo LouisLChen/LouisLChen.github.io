@@ -7,10 +7,9 @@ excerpt: 'Consider an s-t flow network in which the arc capacities are distribut
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Louis Chen, Will Ma, James Orlin, David Simchi-Levi. (2010). &quot;Distributionally Robust Max Flows with Marginals.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
+In this paper, we extend the study of Chen et al 2018 to the problem of distributionally robust network design. In this problem, the decision maker is to decide on the prepositioning of resources on arcs in a given s-t flow network in anticipation of an adversary's selection of a probability distribution for the arc capacities that seeks to minimize the expected max flow. The adversary's selection is limited to those distributions that are couplings of given arc capacity distributions, one for each arc. We find that modeling the uncertainty in this way is certainly more sensible than prescribing the stochastic behavior of the arc capacities across an entire network. Furthermore, while it is hard to compute even the expectation with respect to the independent coupling of the stochastic arc capacities, we show that we can efficiently solve the distributionally robust network design problem. Indeed, this particular problem satisfies the sufficiency condition for tractability that we proposed in the previous work. But what's more, a highlight and extension in this work is to take advantage of the network setting to go even further and efficiently solve for the distribution the adversary responds with.
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
