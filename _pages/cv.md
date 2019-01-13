@@ -41,6 +41,11 @@ Work experience
   * Duties included: Simulation-Based Optimization
   * Supervisor: Professor Carolina Osorio
   
+Other Professional Activities
+======
+* Reviewer for Mathematics of Operations Research
+* Referee for Sloan Sports Analytics Conference (2015-2019)
+* Invited Attendee in both the Doctoral Student and Teaching Effectiveness Colloquia, INFORMS Annual Meeting, 2018
   
   
 Skills
