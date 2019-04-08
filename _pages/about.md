@@ -18,5 +18,6 @@ Research Interests
 
 Ongoing Project(s)
 ------
-* Distributionally Robust Max-Flows (Will Ma, James Orlin, David Simchi-Levi)
+* Distributionally Robust Max-Flows (w/ Will Ma, James Orlin, David Simchi-Levi)
 * Distributionally Robust Omni-channel Inventory Management (a collaboration with Alibaba's Hema, Hanzhang Qin, Zirun Zhang)
+* Distributionally Robust Inventory Network (w/ Peter Yun Zhang)
