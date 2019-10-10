@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Operations Research, MIT, 2019 (expected)
+* Ph.D in Operations Research, MIT, 2019
 * B.A. in Computational and Applied Mathematics, Rice University, 2012
 * B.S. in Mechanical Engineering, Rice University, 2012
 
