@@ -17,7 +17,7 @@ experiments comparing the adversarial and independent cascade model.'
 date: 2020-12-12
 venue: 'NEURIPS 2020'
 paperurl: 'https://papers.nips.cc/paper/2020/file/4ee78d4122ef8503fe01cdad3e9ea4ee-Paper.pdf'
-citation: 'Louis Chen, Divya Padmanabhan, Chee Chin Lim, Karthik Natarajan. (2020). &quot; Correlation Robust Influence Maximization.&quot; <i></i>.'
+citation: 'Louis Chen, Divya Padmanabhan, Chee Chin Lim, Karthik Natarajan (2020). &quot; Correlation Robust Influence Maximization.&quot; <i></i>.'
 ---
 We propose a distributionally robust model for the influence maximization problem.
 Unlike the classic independent cascade model [16], this model’s diffusion process
