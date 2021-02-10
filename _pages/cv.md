@@ -43,7 +43,7 @@ Work experience
   
 Other Professional Activities
 ======
-* Reviewer for Operations Research, Mathematics of Operations Research, IEEE
+* Reviewer for Operations Research, Management Science, Mathematics of Operations Research, IEEE
 * Sub-Reviewer for WINE 2019: The 15th Conference on Web and Internet Economics
 * Sub-Reviewer for European Symposium on Algorithms (2019)
 * Referee for Sloan Sports Analytics Conference (2015-2020)
