@@ -3,7 +3,7 @@ title: "Correlation Robust Influence Maximization"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-11-06-talk-8
-venue: "IFORS 2021"
+venue: "NEURIPS 2020"
 date: 2020-12-06
 location: "Online"
 ---
