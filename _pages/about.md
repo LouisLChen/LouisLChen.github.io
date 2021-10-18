@@ -18,4 +18,4 @@ Research Interests
 
 Ongoing Project(s)
 ------
-* Distributionally Robust Influence Maximization (w/ Chee Chin Lim, Will Ma, Karthik Natarajan, Divya Padmanabhan, David Simchi-Levi)
+* Rockafellian Relaxation in Optimization under Uncertainty: Consistent Alternatives to Robust Formulations (w/ Johannes Royset)
