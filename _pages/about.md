@@ -13,7 +13,7 @@ Hi, welcome to my website! I'm an Assistant Professor of Operations Research at 
 
 Research Interests
 ------
-(Data-Driven) (Distributionally) Robust Optimization, Stochastic Programming, (Online) Convex Optimization, (Discrete) Convex Analysis, Optimal Transport
+(Data-Driven) (Distributionally) Robust Optimization, Stochastic Programming, (Online) Convex Optimization, (Discrete) Convex Analysis, Optimal Transport, Networks, Influence Maximization
 
 
 Ongoing Project(s)
