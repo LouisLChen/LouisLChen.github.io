@@ -13,7 +13,7 @@ mix- ture of the independent and the worst-case distribution or by incorporating
 Finally we provide insights from numerical experiments to illustrate the usefulness of the model.'
 date: 2021-10-18
 venue: '(Submitted)'
-paperurl: 'https://papers.nips.cc/paper/2020/file/4ee78d4122ef8503fe01cdad3e9ea4ee-Paper.pdf'
+paperurl: 'https://www.dropbox.com/s/xyq1npug4814nn8/SubmissionVersion.pdf?dl=0'
 citation: 'Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2021). "Robustness to Dependency in Influence Maximization.&quot; <i></i>.'
 ---
 In this paper, we introduce a correlation robust model for the influence maximization problem. Unlike the classic independent cascade model, 
