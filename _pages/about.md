@@ -16,6 +16,7 @@ Research Interests
 (Data-Driven) (Distributionally) Robust Optimization, Stochastic Programming, (Online) Convex Optimization, (Discrete) Convex Analysis, Optimal Transport, Networks, Influence Maximization
 
 
-Ongoing Project(s)
+Ongoing/(Under-Review) Project(s)
 ------
-* Rockafellian Relaxation in Optimization under Uncertainty: Consistent Alternatives to Robust Formulations (w/ Johannes Royset)
+* Online Discrete Convex Optimization 
+* Rockafellian Relaxation in Optimization under Uncertainty: Asymptotically Exact Formulations
