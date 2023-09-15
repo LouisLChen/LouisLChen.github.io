@@ -18,5 +18,6 @@ Research Interests
 
 Ongoing/(Under-Review) Project(s)
 ------
+* Adversarial-Robust False Detection Rate Control
 * Online Discrete Convex Optimization 
 * Rockafellian Relaxation in Optimization under Uncertainty: Asymptotically Exact Formulations
