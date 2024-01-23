@@ -12,9 +12,9 @@ how the proposed model can be extended to optimize other objectives by controlli
 mix- ture of the independent and the worst-case distribution or by incorporating risk criterion in choosing the seed set. 
 Finally we provide insights from numerical experiments to illustrate the usefulness of the model.'
 date: 2021-10-18
-venue: '(Submitted)'
+venue: 'Accepted/Forthcoming in Management Science'
 paperurl: 'https://www.dropbox.com/s/xyq1npug4814nn8/SubmissionVersion.pdf?dl=0'
-citation: 'Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2021). "Robustness to Dependency in Influence Maximization.&quot; <i></i>.'
+citation: 'Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2024). "Robustness to Dependency in Influence Maximization.&quot; <i></i>.'
 ---
 In this paper, we introduce a correlation robust model for the influence maximization problem. Unlike the classic independent cascade model, 
 this model’s diffusion process is adversarially adapted to the choice of seed set. More precisely, rather than only the in- dependent coupling 
@@ -29,4 +29,4 @@ Finally we provide insights from numerical experiments to illustrate the usefuln
 
 [Download paper here](https://www.dropbox.com/s/xyq1npug4814nn8/SubmissionVersion.pdf?dl=0)
 
-Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2021). "Robustness to Dependency in Influence Maximization." <i>submitted</i>.
+Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2024). "Robustness to Dependency in Influence Maximization." <i>accepted/forthcoming in Management Science</i>.
