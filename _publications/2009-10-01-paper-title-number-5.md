@@ -11,7 +11,7 @@ We provide structural insights from the model and contrast it with the independe
 how the proposed model can be extended to optimize other objectives by controlling for conservatism using a 
 mix- ture of the independent and the worst-case distribution or by incorporating risk criterion in choosing the seed set. 
 Finally we provide insights from numerical experiments to illustrate the usefulness of the model.'
-date: 2021-10-18
+date: 2024
 venue: 'Accepted/Forthcoming in Management Science'
 paperurl: 'https://www.dropbox.com/s/xyq1npug4814nn8/SubmissionVersion.pdf?dl=0'
 citation: 'Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2024). "Robustness to Dependency in Influence Maximization.&quot; <i></i>.'
