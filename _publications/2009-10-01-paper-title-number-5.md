@@ -27,6 +27,6 @@ mix- ture of the independent and the worst-case distribution or by incorporating
 Finally we provide insights from numerical experiments to illustrate the usefulness of the model.
 
 
-[Download paper here](https://www.dropbox.com/s/xyq1npug4814nn8/SubmissionVersion.pdf?dl=0)
+[Download paper here]([https://www.dropbox.com/s/xyq1npug4814nn8/SubmissionVersion.pdf?dl=0](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.03445))
 
 Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2024). "Robustness to Dependency in Influence Maximization." <i>accepted/forthcoming in Management Science</i>.
