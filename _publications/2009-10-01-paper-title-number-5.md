@@ -12,7 +12,7 @@ how the proposed model can be extended to optimize other objectives by controlli
 mix- ture of the independent and the worst-case distribution or by incorporating risk criterion in choosing the seed set. 
 Finally we provide insights from numerical experiments to illustrate the usefulness of the model.'
 date: 2024-1-17
-venue: 'Accepted/Forthcoming in Management Science'
+venue: 'Management Science'
 paperurl: 'https://pubsonline.informs.org/doi/10.1287/mnsc.2021.03445'
 citation: 'Louis Chen, Chee Chin Lim, Divya Padmanabhan, Karthik Natarajan (2024). "Robustness to Dependency in Influence Maximization.&quot; <i></i>.'
 ---
