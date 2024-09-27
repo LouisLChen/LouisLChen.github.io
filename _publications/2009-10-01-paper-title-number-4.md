@@ -15,7 +15,7 @@ Beyond the key computational advantages, we also highlight the extent to which t
 independence assumption may cost optimality, and provide insights from numerical
 experiments comparing the adversarial and independent cascade model.'
 date: 2020-12-12
-venue: 'NEURIPS 2020'
+venue: 'Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020)'
 paperurl: 'https://papers.nips.cc/paper/2020/file/4ee78d4122ef8503fe01cdad3e9ea4ee-Paper.pdf'
 citation: 'Louis Chen, Divya Padmanabhan, Chee Chin Lim, Karthik Natarajan (2020). &quot; Correlation Robust Influence Maximization.&quot; <i></i>.'
 ---
