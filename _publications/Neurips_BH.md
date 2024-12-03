@@ -10,6 +10,6 @@ citation: 'Louis Chen, Roberto Szechtman, Matan Seri (2024). &quot;On the Advers
 ---
 Test
 
-[Download paper here](https://neurips.cc/)
+[Download paper here]([https://neurips.cc/](https://neurips.cc/virtual/2024/poster/96573))
 
  Louis Chen, Roberto Szechtman, Matan Seri (2024). "On the Adversarial Robustness of Benjamini Hochberg" <i>submitted</i>.
