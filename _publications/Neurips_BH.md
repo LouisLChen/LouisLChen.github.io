@@ -12,4 +12,4 @@ Test
 
 [Download paper here](https://arxiv.org/abs/2501.03402)
 
- Louis Chen, Roberto Szechtman, Matan Seri (2024). "On the Adversarial Robustness of Benjamini Hochberg" <i>submitted</i>.
+ Louis Chen, Roberto Szechtman, Matan Seri (2024). "On the Adversarial Robustness of Benjamini Hochberg" <i>NeurIPS 2024 Poster</i>.
