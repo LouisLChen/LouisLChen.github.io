@@ -19,5 +19,9 @@ Research Interests
 Ongoing/(Under-Review) Project(s)
 ------
 * Adversarial-Robust False Detection Rate Control
-* Online Discrete Convex Optimization 
-* Rockafellian Relaxation in Optimization under Uncertainty: Asymptotically Exact Formulations
+* Optimistic-Pessimistic Duality
+* Adaptive Network Routing with Deadlines
+
+# Research Funding Acknowledgement
+* Air Force Office of Scientific Research (Mathematical Optimization Program) grant: “Optimal Decision Making under Tight Performance Requirements in Adversarial and Uncertain Environments: Insights from Rockafellian Functions”.
+
