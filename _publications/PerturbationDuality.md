@@ -12,7 +12,7 @@ excerpt: >
   In particular, we develop a bifunction-based representation that encompasses existing formulations in the literature and yields concise and general proofs, substantially simplifying recent results. 
   This work positions perturbation duality as a versatile and underutilized framework for RO and DRO, offering both conceptual unification and technical generality across a broad class of models.
 date: 2026-03-20
-venue: ""
-paperurl: ""
+venue: "arXiv"
+paperurl: "https://arxiv.org/abs/2603.20503"
 citation: 'Louis Chen, Jake Roth, Johannes Royset (2026). "Perturbation Duality for Robust and Distributionally Robust Optimization: Short and General Proofs"'
 ---
