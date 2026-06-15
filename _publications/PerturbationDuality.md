@@ -3,14 +3,9 @@ title: "Perturbation Duality for Robust and Distributionally Robust Optimization
 collection: publications
 permalink: /publication/PerturbationDuality
 excerpt: >
-  Duality is a foundational tool in robust and distributionally robust optimization (RO and DRO), underpinning both analytical insights and tractable reformulations. 
-  The prevailing approaches in the literature primarily rely on saddle-point arguments, Lagrangian techniques, and conic duality. 
-  In contrast, this paper applies perturbation duality in the sense of Fenchel--Rockafellar convex analysis and demonstrates its effectiveness as a general and unifying methodology for deriving dual formulations in RO and DRO.
-  We first apply perturbation duality to a recently proposed DRO framework that unifies phi-divergence and Wasserstein ambiguity sets through optimal transport with conditional moment constraints. 
-  We establish the associated dual representation without imposing compactness assumptions previously conjectured to be necessary, instead introducing alternative conditions motivated by perturbation analysis and leveraging the Interchangeability Principle. 
-  We then revisit the concept of robust duality -- commonly described as ``primal-worst equals dual-best'' -- and show that perturbation-based formulations provide a unified and transparent characterization of this principle. 
-  In particular, we develop a bifunction-based representation that encompasses existing formulations in the literature and yields concise and general proofs, substantially simplifying recent results. 
-  This work positions perturbation duality as a versatile and underutilized framework for RO and DRO, offering both conceptual unification and technical generality across a broad class of models.
+  Duality is a foundational tool in robust and distributionally robust optimization (RO/DRO), underpinning both analytical insights and tractable reformulations. While most RO/DRO duality results are derived through saddle-point, Lagrangian, or conic arguments, this paper leverages perturbation duality. We show that this perspective provides a natural and unifying framework for deriving RO/DRO dual formulations, proving the associated duality results, and diagnosing the regularity assumptions on which they depend.
+First, guided by perturbation duality, we establish new duality theorems for a recent DRO framework that unifies several canonical models, including $\phi$-divergence and Wasserstein models, through optimal transport subject to conditional moment constraints. Our results resolve an open conjecture on this DRO duality by clarifying the role of compactness: compactness itself is not necessary, but can be replaced by perturbation-based regularity conditions. Second, we revisit \emph{robust duality}, commonly described as \emph{primal-worst equals dual-best.}
+Using bifunctions, we unify dual-best formulations appearing in the literature and derive concise perturbation-based proofs that streamline recent results. Overall, the paper positions perturbation duality as a versatile and underutilized tool for RO and DRO, offering both conceptual unification and technical generality across a broad class of models.
 date: 2026-03-20
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2603.20503"
