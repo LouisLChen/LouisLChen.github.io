@@ -113,19 +113,9 @@ Academic-year designations follow the NPS teaching record.
 - **15.075 — Statistical Thinking and Data Analysis**, Fall 2014.
 - **15.761 — Introduction to Operations Management**, Summer 2014.
 
-### Curriculum development
-
-- **Search Theory and Detection:** Developed lectures, projects, and programming materials on optimal constrained search for moving targets; lectures on optimal stopping, the secretary problem, and sequential hypothesis testing; and instruction on social-network search, private search, patrolling games, and rendezvous games.
-- **Nonlinear Programming:** Developed lectures, projects, and homework on convex duality through Fenchel perturbation theory.
-- Incorporated applications of weapon targeting for missile defense and Benjamini–Hochberg anomaly detection into naval operations instruction.
-
 ### Professional and fleet instruction
 
 **Operations Analysis in Naval Operational Planning**, NPS Extended Campus. Selected to help modernize the five-day short course and associated three-day practica for NAWDC MISR Weapons and Tactics Instructors. Contributed syllabus redesign, scenario development, and instruction in stochastic, decision-analytic, and simulation methods. Direct instruction: 6–10 hours, with 4–8 additional hours of practical problem facilitation. Collaborator: CDR Paolo J. Singh; instruction includes Naval Air Station Fallon.
-
-### Teaching development
-
-Weekly instructional coaching with Ali Rodgers, Director of Faculty Development, Summer 2025–Summer 2026; applied flipped-classroom methods, mid-quarter surveys, and breakout sessions. Winter AY2026 OA4201 evaluations: **4.78/5 for learning**, **4.56/5 for course design**, and **5.00/5 for instructor effectiveness**.
 
 ## Advising and mentoring
 
@@ -149,12 +139,6 @@ Naval Postgraduate School. Degrees are in Operations Research unless otherwise i
 - **Victor Benicio Ardilha da Silva Alves**, June 2024. *Online Large-Scale Hypothesis Testing with Corrupted Data.*
 - **Marcus Garcia**, September 2022. *An Analysis of Covid-19 Misinformation on the Telegram Social Network.*
 - **Joseph Novak**, September 2021. *Optimization for Human Systems Integration.* Master's degree in Human Systems Integration. **MORS Tisdale Finalist.**
-
-### Research mentoring
-
-- **Jake Roth**, University of Minnesota Ph.D. student: research advising and collaboration with primary advisor Ying Cui on optimization duality; hosted as a visiting researcher at NPS.
-- **Ang Xu**, University of California, Berkeley Ph.D. student: research advising and collaboration with Chiwei Yan and Roberto Szechtman on dynamic weapon targeting.
-- Extended Matan Seri's thesis into a NeurIPS 2024 publication and Vince Vanterpool's thesis into a manuscript under review at *Operations Research*.
 
 ### Doctoral dissertation committees
 
@@ -182,7 +166,7 @@ Invited talks and conference presentations, listed from newest to oldest. Linked
 
 Additional presentation details are available on my [talks page]({{ base_path }}/talks/).
 
-- **2026** — International Conference on Learning Representations (ICLR). [Enhancing Learning with Noisy Labels via Rockafellian Relaxation](#pub-iclr).
+- **April 2026** — International Conference on Learning Representations (ICLR). [Enhancing Learning with Noisy Labels via Rockafellian Relaxation](#pub-iclr).
 - **April 2026** — Computer Science Theory Seminar, University of California, Irvine. [On the Adversarial Robustness of Benjamini Hochberg](#pub-bh).
 - **October 2025** — INFORMS Annual Meeting, Atlanta, GA. “Meeting Uncertain Demand with Deadlines.”
 - **July 2025** — International Conference on Continuous Optimization, University of Southern California, Los Angeles, CA. [On the Adversarial Robustness of Benjamini Hochberg](#pub-bh).
@@ -192,7 +176,7 @@ Additional presentation details are available on my [talks page]({{ base_path }}
 - **July 2024** — International Symposium on Mathematical Programming, Montreal, Canada. [On the Adversarial Robustness of Benjamini Hochberg](#pub-bh).
 - **April 2024** — INFORMS Conference on Analytics, Orlando, FL. [On the Adversarial Robustness of Benjamini Hochberg](#pub-bh).
 - **March 2024** — INFORMS Conference on Optimization, Houston, TX. [On the Adversarial Robustness of Benjamini Hochberg](#pub-bh).
-- **2023** — Department of Industrial and Information Management Seminar, National Cheng Kung University. [Robustness to Dependency in Influence Maximization](#pub-dependency).
+- **December 2023** — Department of Industrial and Information Management Seminar, National Cheng Kung University. [Robustness to Dependency in Influence Maximization](#pub-dependency).
 - **October 2023** — INFORMS Annual Meeting, Phoenix, AZ. [Robustness to Dependency in Influence Maximization](#pub-dependency).
 - **August 2023** — AFOSR Mathematical Optimization Program Review, Arlington, VA. “Optimal Decision Making under Tight Performance Requirements in Adversarial and Uncertain Environments: Insight from Rockafellian Functions.”
 - **July 2023** — International Conference on Stochastic Programming, University of California, Davis. “Optimistic-Pessimistic Duality.”
@@ -202,62 +186,12 @@ Additional presentation details are available on my [talks page]({{ base_path }}
 - **March 2022** — INFORMS Conference on Optimization, Greenville, SC. “Rockafellian Relaxation in Optimization under Uncertainty: Asymptotically Exact Formulations.”
 - **October 2021** — INFORMS Annual Meeting, Houston, TX. [Correlation Robust Influence Maximization](#pub-correlation).
 - **December 2020** — NeurIPS, online. [Correlation Robust Influence Maximization](#pub-correlation).
-- **2020** — INFORMS Annual Meeting. [Robustness to Dependency in Influence Maximization](#pub-dependency).
+- **October 2020** — INFORMS Annual Meeting. [Robustness to Dependency in Influence Maximization](#pub-dependency).
 - **January 2020** — Symposium on Simplicity in Algorithms, Salt Lake City, UT. [Distributionally Robust Max Flows](#pub-maxflows).
-- **2019** — Manufacturing & Service Operations Management Conference. [Distributionally Robust Omnichannel Stocking Decisions in Quick Fulfillment Systems](#pub-omnichannel).
-- **2018** — International Symposium on Mathematical Programming. [Distributionally Robust Linear and Discrete Optimization with Marginals](#pub-marginals).
+- **July 2019** — Manufacturing & Service Operations Management Conference. [Distributionally Robust Omnichannel Stocking Decisions in Quick Fulfillment Systems](#pub-omnichannel).
+- **July 2018** — International Symposium on Mathematical Programming. [Distributionally Robust Linear and Discrete Optimization with Marginals](#pub-marginals).
 
-## Service
-
-### Institutional service
-
-- Operations Research Department representative, NPS Faculty Council; member, Faculty Council Nominations Committee.
-- Qualification Exam Committee: Mark Adams (2025, 2026); David Barnhill (2022).
-- Oral Exam Committee: Larry Wiggington (2025, 2026); John Sabol (2024).
-- Dissertation committee service: John Sabol (2024–2026); Peter Barkley (2024, with degree completed in 2025).
-- MORS Tisdale Award Judging Committee (2020).
-- Organized Operations Research Department seminars by Mathieu Dahan (November 16, 2023) and Mohit Tawarmalani (November 30, 2023).
-- Provided regular qualification and oral examination preparation for John Sabol, Larry Wiggington, Peter Barkley, and Mark Adams.
-
-### Conference session organization
-
-- **2027 (scheduled):** Session Organizer, International Symposium on Mathematical Programming, Amsterdam, Netherlands.
-- **2026:** Session Co-organizer, INFORMS Annual Meeting, San Francisco, CA.
-- **2025:** Session Organizer, International Conference on Continuous Optimization, University of Southern California, Los Angeles, CA.
-- **2024:** Session Organizer, INFORMS Conference on Optimization, Houston, TX.
-- **2023:** Session Organizer, International Conference on Stochastic Programming, University of California, Davis.
-- **2023:** Session Organizer, SIAM Conference on Optimization, Seattle, WA.
-- **2022:** Session Organizer, INFORMS Optimization Society Conference, Greenville, SC.
-
-### Journal refereeing since 2019
-
-Article counts follow the October 2026 service record.
-
-- *Operations Research* (9); *Management Science* (6); *Mathematical Programming* (3); *Military Operations Research* (3).
-- *Mathematics of Operations Research* (2); *Journal of Optimization Theory and Applications* (2); *Journal of Convex Analysis* (2).
-- *INFORMS Journal on Computing* (1); *Manufacturing & Service Operations Management* (1); *SIAM Journal on Optimization* (1); *SIAM Journal on Financial Mathematics* (1).
-- *IEEE Network* (1); *Computational Optimization and Applications* (1); *Communications in Statistics—Theory and Methods* (1).
-
-### Conference reviewing and other professional activities
-
-- NeurIPS (2025, 2026): approximately 10 papers reviewed.
-- International Conference on Learning Representations (2025): approximately 4 papers reviewed.
-- INFORMS Optimization Society Conference: 1 paper reviewed.
-- Sub-reviewer, Conference on Web and Internet Economics and European Symposium on Algorithms (2019).
-- Referee, Sloan Sports Analytics Conference (2015–2020).
-- Invited attendee, Doctoral Student and Teaching Effectiveness Colloquia, INFORMS Annual Meeting (2018).
 
 ## Consulting
 
 **Algorithms Consultant, 14Bis**, **2021–present**. Optimization of logistics operations for Small Business Innovation Research projects sponsored by the Marine Corps, Air Force, and Space Force.
-
-## Honors and scholarships
-
-- U.S. Department of Homeland Security Scholar.
-- Rice University scholarships: L.J. Walsh, Chevron, and Samuel T. Sikes Jr.
-- Rice University President's Honor Roll.
-
-## Skills
-
-**Programming and scientific computing:** C/C++, Java, Python, MATLAB, Julia, R.  
-**Technical writing:** LaTeX.
