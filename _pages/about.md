@@ -19,7 +19,7 @@ Research Interests
 Ongoing/(Under-Review) Project(s)
 ------
 * Adversarial-Robust False Detection Rate Control
-* Optimistic-Pessimistic Duality
+* Calibrated, Contextual Distributionally Robust Optimization
 * Adaptive Network Routing with Deadlines
 
 # Research Funding Acknowledgement
