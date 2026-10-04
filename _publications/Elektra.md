@@ -7,5 +7,5 @@ excerpt: >
 date: 2026-07-15
 venue: "(major revision at Operations Research)"
 paperurl: "https://arxiv.org/abs/2607.13648" 
-citation: 'Louis L Chen, Ang Xu, Roberto Szechtman, Chiwei Yan, Vince Vanterpool (2026). "Meeting Uncertain Threats with Feedback"'
+citation: 'Louis L Chen*, Ang Xu*, Roberto Szechtman, Chiwei Yan, Vince Vanterpool (2026). "Meeting Uncertain Threats with Feedback"'
 ---
