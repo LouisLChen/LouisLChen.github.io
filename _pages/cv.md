@@ -54,7 +54,7 @@ Additional paper descriptions are available on my [publications page]({{ base_pa
 
 ### Refereed conference papers
 
-4. <a id="pub-iclr"></a>**Louis L. Chen** *, Bobbie Chern, Eric Eckstrand, Amogh Mahapatra, and Johannes Royset (2026). “Enhancing Learning with Noisy Labels via Rockafellian Relaxation.” *International Conference on Learning Representations (ICLR 2026).*
+4. <a id="pub-iclr"></a>**Louis L. Chen** <sup>*</sup>, Bobbie Chern, Eric Eckstrand, Amogh Mahapatra, and Johannes Royset (2026). “Enhancing Learning with Noisy Labels via Rockafellian Relaxation.” *International Conference on Learning Representations (ICLR 2026).*
 5. <a id="pub-bh"></a>**Louis L. Chen** *, Matan Seri, and Roberto Szechtman (2024). “On the Adversarial Robustness of Benjamini Hochberg.” *Advances in Neural Information Processing Systems (NeurIPS 2024)*, Article 2887, pp. 90965–90988.
 6. <a id="pub-correlation"></a>**Louis L. Chen** *, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan (2020). “Correlation Robust Influence Maximization.” *Advances in Neural Information Processing Systems (NeurIPS 2020)*, 33:7078–7089, Article 594.
 7. <a id="pub-maxflows"></a>**Louis L. Chen** *, Will Ma, James B. Orlin, and David Simchi-Levi (2020). “Distributionally Robust Max Flows.” *Symposium on Simplicity in Algorithms (SOSA 2020)*, pp. 81–90. SIAM.
