@@ -20,16 +20,10 @@ Earlier MIT research-assistant roles and skills are retained from the previous C
 Assistant Professor, Department of Operations Research  
 Naval Postgraduate School
 
-Glasgow 215, 1 University Circle, Monterey, CA 93943  
-[louis.chen@nps.edu](mailto:louis.chen@nps.edu) | +1 831-656-1111
-
 *Updated October 2026.*
 
 [Appointments](#appointments) · [Education](#education) · [Publications](#publications) · [Research funding](#research-funding) · [Teaching](#teaching) · [Advising and mentoring](#advising-and-mentoring) · [Talks](#talks) · [Service](#service)
 
-## Research interests
-
-Robust and distributionally robust optimization; convex analysis and perturbation duality; stochastic optimization; adversarial robustness and multiple hypothesis testing; safe AI and mechanistic interpretability; dynamic resource allocation, weapon targeting, and search and detection.
 
 ## Appointments
 
@@ -38,9 +32,6 @@ Robust and distributionally robust optimization; convex analysis and perturbatio
 - **Summer Research Intern**, Alibaba, Machine Intelligence Technology Group. **June–September 2018.** Research on cloud scheduling and robust omnichannel inventory replenishment. Supervisor: Sen Yang.
 - **Visiting Research Scholar**, Singapore University of Technology and Design. **June–August 2017.** Research on distributionally robust optimization with marginal constraints. Host: Karthik Natarajan.
 - **Research Assistant**, Massachusetts Institute of Technology. **Fall and Spring terms, 2014–2018.** Dissertation research on robust optimization in operations and revenue management. Supervisor: David Simchi-Levi.
-- **Research Assistant**, Massachusetts Institute of Technology. **Fall 2013–Spring 2014.** FDA-sponsored study of food and drug supply chain vulnerabilities. Supervisor: Retsef Levi.
-- **Research Assistant**, Massachusetts Institute of Technology. **Fall 2012–Spring 2013.** Research on simulation-based optimization. Supervisor: Carolina Osorio.
-- **Summer Research Intern**, University of Southern California, Center for Risk and Economic Analysis of Terrorism Events. **June–August 2011.** Research on mixed-integer optimization for security games. Supervisors: Manish Jain and Milind Tambe.
 
 ## Education
 
