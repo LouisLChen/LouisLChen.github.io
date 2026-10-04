@@ -42,34 +42,34 @@ Naval Postgraduate School
 
 Additional paper descriptions are available on my [publications page]({{ base_path }}/publications/).
 
-<sup>*</sup> First and corresponding author; <sup>○</sup> corresponding author.
+<sup>&#42;</sup> First and corresponding author; <sup>○</sup> corresponding author.
 
 ### Refereed journal articles
 
 1. <a id="pub-rock"></a>Johannes O. Royset, **Louis L. Chen**<sup>○</sup>, and Eric Eckstrand (2024). “Rockafellian Relaxation and Stochastic Optimization Under Perturbations.” *Mathematics of Operations Research*, 50(3):1585–1610. [DOI](https://doi.org/10.1287/moor.2022.0122).
-2. <a id="pub-dependency"></a>**Louis L. Chen** <sup>*</sup>, Chee Chin Lim, Divya Padmanabhan, and Karthik Natarajan (2024). “Robustness to Dependency in Influence Maximization.” *Management Science** *, 71(3):2696–2713. [DOI](https://doi.org/10.1287/mnsc.2021.03445).
-3. <a id="pub-marginals"></a>**Louis L. Chen** <sup>*</sup>, Will Ma, Karthik Natarajan, David Simchi-Levi, and Zhenzhen Yan (2022). “Distributionally Robust Linear and Discrete Optimization with Marginals.” *Operations Research*, 70(3):1822–1834. [DOI](https://doi.org/10.1287/opre.2021.2243).
+2. <a id="pub-dependency"></a>**Louis L. Chen** <sup>&#42;</sup>, Chee Chin Lim, Divya Padmanabhan, and Karthik Natarajan (2024). “Robustness to Dependency in Influence Maximization.” *Management Science*, 71(3):2696–2713. [DOI](https://doi.org/10.1287/mnsc.2021.03445).
+3. <a id="pub-marginals"></a>**Louis L. Chen** <sup>&#42;</sup>, Will Ma, Karthik Natarajan, David Simchi-Levi, and Zhenzhen Yan (2022). “Distributionally Robust Linear and Discrete Optimization with Marginals.” *Operations Research*, 70(3):1822–1834. [DOI](https://doi.org/10.1287/opre.2021.2243).
 
 *The 2024 dates above are online-publication dates; the corresponding journal issues appeared in 2025.*
 
 ### Refereed conference papers
 
-4. <a id="pub-iclr"></a>**Louis L. Chen** <sup>*</sup>, Bobbie Chern, Eric Eckstrand, Amogh Mahapatra, and Johannes Royset (2026). “Enhancing Learning with Noisy Labels via Rockafellian Relaxation.” *International Conference on Learning Representations (ICLR 2026).*
-5. <a id="pub-bh"></a>**Louis L. Chen** <sup>*</sup>, Matan Seri, and Roberto Szechtman (2024). “On the Adversarial Robustness of Benjamini Hochberg.” *Advances in Neural Information Processing Systems (NeurIPS 2024)*, Article 2887, pp. 90965–90988.
-6. <a id="pub-correlation"></a>**Louis L. Chen** <sup>*</sup>, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan (2020). “Correlation Robust Influence Maximization.” *Advances in Neural Information Processing Systems (NeurIPS 2020)*, 33:7078–7089, Article 594.
-7. <a id="pub-maxflows"></a>**Louis L. Chen** <sup>*</sup>, Will Ma, James B. Orlin, and David Simchi-Levi (2020). “Distributionally Robust Max Flows.” *Symposium on Simplicity in Algorithms (SOSA 2020)*, pp. 81–90. SIAM.
+4. <a id="pub-iclr"></a>**Louis L. Chen** <sup>&#42;</sup>, Bobbie Chern, Eric Eckstrand, Amogh Mahapatra, and Johannes Royset (2026). “Enhancing Learning with Noisy Labels via Rockafellian Relaxation.” *International Conference on Learning Representations (ICLR 2026).*
+5. <a id="pub-bh"></a>**Louis L. Chen** <sup>&#42;</sup>, Matan Seri, and Roberto Szechtman (2024). “On the Adversarial Robustness of Benjamini Hochberg.” *Advances in Neural Information Processing Systems (NeurIPS 2024)*, Article 2887, pp. 90965–90988.
+6. <a id="pub-correlation"></a>**Louis L. Chen** <sup>&#42;</sup>, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan (2020). “Correlation Robust Influence Maximization.” *Advances in Neural Information Processing Systems (NeurIPS 2020)*, 33:7078–7089, Article 594.
+7. <a id="pub-maxflows"></a>**Louis L. Chen** <sup>&#42;</sup>, Will Ma, James B. Orlin, and David Simchi-Levi (2020). “Distributionally Robust Max Flows.” *Symposium on Simplicity in Algorithms (SOSA 2020)*, pp. 81–90. SIAM.
 
 ### Manuscripts under review
 
-8. <a id="pub-repair"></a>**Louis L. Chen** <sup>*</sup> and Jake Roth (2026). “Repair-Based Duality for Distributionally Robust Optimization via Conditional-Moment Optimal Transport.” Submitted to *Mathematical Programming*.
-9. <a id="pub-threats"></a>**Louis L. Chen** <sup>*</sup>, Ang Xu, Roberto Szechtman, Chiwei Yan, and Vincent Vanterpool (2026). “Meeting Uncertain Threats with Feedback.” Under review at *Operations Research*.
+8. <a id="pub-repair"></a>**Louis L. Chen** <sup>&#42;</sup> and Jake Roth (2026). “Repair-Based Duality for Distributionally Robust Optimization via Conditional-Moment Optimal Transport.” Submitted to *Mathematical Programming*.
+9. <a id="pub-threats"></a>**Louis L. Chen** <sup>&#42;</sup>, Ang Xu, Roberto Szechtman, Chiwei Yan, and Vincent Vanterpool (2026). “Meeting Uncertain Threats with Feedback.” Under review at *Operations Research*.
 
 ### Preprints and working papers
 
-10. <a id="pub-duality"></a>**Louis L. Chen** <sup>*</sup>, Jake Roth, and Johannes Royset (2026). “Perturbation Duality for Robust and Distributionally Robust Optimization: Short and General Proofs.” arXiv preprint.
-11. <a id="pub-pwdb"></a>**Louis L. Chen** <sup>*</sup>, Jake Roth, and Johannes Royset (2026). “Simplifying Primal-Worst Equals Dual-Best via Perturbations.” In preparation.
-12. <a id="pub-omnichannel"></a>**Louis L. Chen** <sup>*</sup>, Hanzhang Qin, David Simchi-Levi, and Zirun Zhang (2019). “Distributionally Robust Omnichannel Stocking Decisions in Quick Fulfillment Systems.” SSRN preprint.
-13. <a id="pub-assortment"></a>**Louis L. Chen** <sup>*</sup> and David Simchi-Levi (2017). “On the Structure of Cardinality Constrained Assortment Optimization.” In preparation.
+10. <a id="pub-duality"></a>**Louis L. Chen** <sup>&#42;</sup>, Jake Roth, and Johannes Royset (2026). “Perturbation Duality for Robust and Distributionally Robust Optimization: Short and General Proofs.” arXiv preprint.
+11. <a id="pub-pwdb"></a>**Louis L. Chen** <sup>&#42;</sup>, Jake Roth, and Johannes Royset (2026). “Simplifying Primal-Worst Equals Dual-Best via Perturbations.” In preparation.
+12. <a id="pub-omnichannel"></a>**Louis L. Chen** <sup>&#42;</sup>, Hanzhang Qin, David Simchi-Levi, and Zirun Zhang (2019). “Distributionally Robust Omnichannel Stocking Decisions in Quick Fulfillment Systems.” SSRN preprint.
+13. <a id="pub-assortment"></a>**Louis L. Chen** <sup>&#42;</sup> and David Simchi-Levi (2017). “On the Structure of Cardinality Constrained Assortment Optimization.” In preparation.
 
 ### Patent applications
 
