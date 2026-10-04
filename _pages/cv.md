@@ -47,17 +47,17 @@ Additional paper descriptions are available on my [publications page]({{ base_pa
 ### Refereed journal articles
 
 1. <a id="pub-rock"></a>Johannes O. Royset, **Louis L. Chen**<sup>○</sup>, and Eric Eckstrand (2024). “Rockafellian Relaxation and Stochastic Optimization Under Perturbations.” *Mathematics of Operations Research*, 50(3):1585–1610. [DOI](https://doi.org/10.1287/moor.2022.0122).
-2. <a id="pub-dependency"></a>**Louis L. Chen**<sup>*</sup>, Chee Chin Lim, Divya Padmanabhan, and Karthik Natarajan (2024). “Robustness to Dependency in Influence Maximization.” *Management Science*, 71(3):2696–2713. [DOI](https://doi.org/10.1287/mnsc.2021.03445).
-3. <a id="pub-marginals"></a>**Louis L. Chen**<sup>*</sup>, Will Ma, Karthik Natarajan, David Simchi-Levi, and Zhenzhen Yan (2022). “Distributionally Robust Linear and Discrete Optimization with Marginals.” *Operations Research*, 70(3):1822–1834. [DOI](https://doi.org/10.1287/opre.2021.2243).
+2. <a id="pub-dependency"></a>**Louis L. Chen** *, Chee Chin Lim, Divya Padmanabhan, and Karthik Natarajan (2024). “Robustness to Dependency in Influence Maximization.” *Management Science** *, 71(3):2696–2713. [DOI](https://doi.org/10.1287/mnsc.2021.03445).
+3. <a id="pub-marginals"></a>**Louis L. Chen** *, Will Ma, Karthik Natarajan, David Simchi-Levi, and Zhenzhen Yan (2022). “Distributionally Robust Linear and Discrete Optimization with Marginals.” *Operations Research*, 70(3):1822–1834. [DOI](https://doi.org/10.1287/opre.2021.2243).
 
 *The 2024 dates above are online-publication dates; the corresponding journal issues appeared in 2025.*
 
 ### Refereed conference papers
 
-4. <a id="pub-iclr"></a>**Louis L. Chen**<sup>*</sup>, Bobbie Chern, Eric Eckstrand, Amogh Mahapatra, and Johannes Royset (2026). “Enhancing Learning with Noisy Labels via Rockafellian Relaxation.” *International Conference on Learning Representations (ICLR 2026).*
-5. <a id="pub-bh"></a>**Louis L. Chen**<sup>*</sup>, Matan Seri, and Roberto Szechtman (2024). “On the Adversarial Robustness of Benjamini Hochberg.” *Advances in Neural Information Processing Systems (NeurIPS 2024)*, Article 2887, pp. 90965–90988.
-6. <a id="pub-correlation"></a>**Louis L. Chen**<sup>*</sup>, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan (2020). “Correlation Robust Influence Maximization.” *Advances in Neural Information Processing Systems (NeurIPS 2020)*, 33:7078–7089, Article 594.
-7. <a id="pub-maxflows"></a>**Louis L. Chen**<sup>*</sup>, Will Ma, James B. Orlin, and David Simchi-Levi (2020). “Distributionally Robust Max Flows.” *Symposium on Simplicity in Algorithms (SOSA 2020)*, pp. 81–90. SIAM.
+4. <a id="pub-iclr"></a>**Louis L. Chen** *, Bobbie Chern, Eric Eckstrand, Amogh Mahapatra, and Johannes Royset (2026). “Enhancing Learning with Noisy Labels via Rockafellian Relaxation.” *International Conference on Learning Representations (ICLR 2026).*
+5. <a id="pub-bh"></a>**Louis L. Chen** *, Matan Seri, and Roberto Szechtman (2024). “On the Adversarial Robustness of Benjamini Hochberg.” *Advances in Neural Information Processing Systems (NeurIPS 2024)*, Article 2887, pp. 90965–90988.
+6. <a id="pub-correlation"></a>**Louis L. Chen** *, Divya Padmanabhan, Chee Chin Lim, and Karthik Natarajan (2020). “Correlation Robust Influence Maximization.” *Advances in Neural Information Processing Systems (NeurIPS 2020)*, 33:7078–7089, Article 594.
+7. <a id="pub-maxflows"></a>**Louis L. Chen** *, Will Ma, James B. Orlin, and David Simchi-Levi (2020). “Distributionally Robust Max Flows.” *Symposium on Simplicity in Algorithms (SOSA 2020)*, pp. 81–90. SIAM.
 
 ### Manuscripts under review
 
