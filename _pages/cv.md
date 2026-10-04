@@ -61,7 +61,7 @@ Additional paper descriptions are available on my [publications page]({{ base_pa
 
 ### Manuscripts under review
 
-8. <a id="pub-threats"></a>**Louis L. Chen** <sup>&#42;</sup>, Ang Xu <sup>&#42;</sup>, Roberto Szechtman, Chiwei Yan, and Vincent Vanterpool (2026). “Meeting Uncertain Threats with Feedback.” Major Revision at *Operations Research*.
+8. <a id="pub-threats"></a>**Louis L. Chen** <sup>&#42;</sup>, Ang Xu *, Roberto Szechtman, Chiwei Yan, and Vincent Vanterpool (2026). “Meeting Uncertain Threats with Feedback.” Major Revision at *Operations Research*.
 
 9. <a id="pub-repair"></a>**Louis L. Chen** <sup>&#42;</sup> and Jake Roth (2026). “Repair-Based Duality for Distributionally Robust Optimization via Conditional-Moment Optimal Transport.” Submitted to *Mathematical Programming*.
 
