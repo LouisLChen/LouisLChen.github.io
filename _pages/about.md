@@ -23,5 +23,7 @@ Ongoing/(Under-Review) Project(s)
 * Adaptive Network Routing with Deadlines
 
 # Research Funding Acknowledgement
+* Office of Naval Intelligence: Aligning Large Language Models for Naval Report Automation
+* Naval Research Program: Reducing Training Delays in Naval Aviation Through Simulation
 * Air Force Office of Scientific Research (Mathematical Optimization Program) grant: “Optimal Decision Making under Tight Performance Requirements in Adversarial and Uncertain Environments: Insights from Rockafellian Functions”.
 
